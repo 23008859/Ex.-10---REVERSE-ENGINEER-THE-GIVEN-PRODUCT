@@ -20,7 +20,11 @@
 ### Step 7.:- Select the Move option for design print position in build tack plate and then after select the Rotate option for rotating the design easily printed and used low print material.
 ### Step 8.:- select the Scale option for design scale according to build tack plate area and then
 ### after click the start option and select printing option standard as shown in below figure.
+![Screenshot 2023-12-31 190339](https://github.com/23008859/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139117979/564c20a7-76dc-44d2-ab91-f702eba12372)
+
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
+![Screenshot 2023-12-31 190600](https://github.com/23008859/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139117979/56103686-9ff5-4266-ab8d-fb191f95e98d)
+
 ### Step 10.:- After generate the gcode format then follow the these instruction 
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
@@ -31,12 +35,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/23008859/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139117979/aab79338-1582-486f-b613-f2fbfc180924)
 
 ### Output:
+![Screenshot 2023-12-31 190806](https://github.com/23008859/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139117979/a43dd4f2-201d-4c41-9fbd-98ac305af826)
 
 
-### Name:
-### Register Number:
+### Name:Roshini.S
+### Register Number:23008859
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
